@@ -1,0 +1,36 @@
+.box {
+    margin-left:5%;
+    margin-top:5%;
+    margin-bottom:5%;
+    
+    padding: 1em;
+    width: 85%;
+    background-color:#888580; /* 背景色 */
+    border: 1px solid #ccc; /* 枠線 */
+    color:white;
+    }
+
+.nyuryoku {
+    margin-left:5% ;
+    width:30%;
+}
+
+h1{
+    margin-left:5%;
+    color:rgb(255, 255, 255);
+    
+
+
+}
+
+body{
+    background-color: #999999
+}
+
+.button{
+    background-color: #e60000;
+    margin-left:10px;
+    float: right;
+    display:none;
+    border-radius: 100%;
+}
